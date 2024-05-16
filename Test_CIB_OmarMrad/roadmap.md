@@ -1,7 +1,7 @@
 # Roadmap
 
 ## Fonctionnalités futures :
-1. Prise en charge de fonctions mathématiques avancées telles que sinus, cosinus, etc.
+1. Prise en charge de fonctions mathématiques avancées telles que sinus, cosinus, tangente.
 2. Possibilité de sauvegarder et de charger des états de pile pour une utilisation ultérieure.
 3. Implémentation de la gestion des variables pour stocker des valeurs intermédiaires.
 4. Ajout de la fonctionnalité d'historique pour permettre aux utilisateurs de revenir en arrière dans les calculs.
